@@ -1,0 +1,14 @@
+Navigate to https://www.kaggle.com/datasets/briscdataset/brisc2025 and download the .zip file for the data. This will likely require creating 
+an account as this is the only place I could find the data. 
+Unzip the file and copy the folder titled brisc2025 to the root directory of the project. The file structure should appear as follows. 
+
+├── brisc2025/
+├── classification_models/
+├── detection_models/
+├── exploration/
+├── model_visualization/
+├── results/
+├── segmentation_models/
+├── dataloader.py
+├── Model_to_Slide_Mapping.txt
+└── requirements.txt

@@ -1,0 +1,9 @@
+Models Used for the Presentation:
+
+Slide  9: tumor_detection_v1.1_grant.ipynb
+Slide 10: tumor_detection_v2_grant.ipynb
+Slide 12: tumor_classification_v1_jonah.py
+Slide 14: tumor_classification_v3_grant.ipynb
+Slide 17: tumor_segmentation_v1_grant.ipynb
+Slide 18: tumor_segmentation_v2.1_grant.ipynb
+Slide 20: tumor_segmentation_v1_jonah.py
